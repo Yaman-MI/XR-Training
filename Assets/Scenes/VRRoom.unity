@@ -2256,7 +2256,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 254233718}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 353a69519cdce614c82d94ce0e686fe9, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -22355,7 +22355,7 @@ PrefabInstance:
     - target: {fileID: 7712791806556897524, guid: 61deafbc8e4e7654bb28aa5b3b19a9c6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.8227
+      value: 0.8049
       objectReference: {fileID: 0}
     - target: {fileID: 7712791806556897524, guid: 61deafbc8e4e7654bb28aa5b3b19a9c6,
         type: 3}
